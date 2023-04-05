@@ -1,0 +1,7 @@
+
+docker build -t my-ibmmq-arm .
+
+docker images
+
+
+docker run --rm -it my-ibmmq-arm
